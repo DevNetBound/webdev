@@ -1,7 +1,7 @@
 body{
     font-family: 'Sansita', sans-serif;
     background-color: #FFFFFF;
-    color: #FDFFFC;
+    color: #8A008A;
     text-align: center;
     border: 40px solid #2EC486;
     border-top: 0px;
@@ -20,7 +20,7 @@ form{
 }
 
 #sub{
-    background-color: #FF9F1C;
+    background-color: #B7B700;
     height: 80px;
     width: 150px;
     margin: 4px;
