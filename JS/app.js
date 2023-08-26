@@ -11,7 +11,7 @@ particlesJS('particles-js',
         }
       },
       "color": {
-        "value": "#fc6d6d"
+        "value": "#b5009a"
       },
       "shape": {
         "type": "circle",
