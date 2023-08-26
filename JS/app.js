@@ -50,7 +50,7 @@ particlesJS('particles-js',
       },
       "line_linked": {
         "enable": true,
-        "distance": 30,
+        "distance": 100,
         "color": "#ffffff",
         "opacity": 0.4,
         "width": 1
@@ -97,7 +97,7 @@ particlesJS('particles-js',
           "speed": 3
         },
         "repulse": {
-          "distance": 50
+          "distance": 100
         },
         "push": {
           "particles_nb": 4
